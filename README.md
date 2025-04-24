@@ -1,4 +1,6 @@
-# Bagaimana Cara Komputer Mengklasifikasikan Buah jeruk dan Anggur?
+# Fruit Classification with Neural Networks: Orange vs. Grape
 
-## Course by Dicoding
+## Juice or Wine? Let Neural Networks Decide 🍊🍇
+
+### Course by Dicoding
 **Dataset :** https://www.kaggle.com/datasets/joshmcadams/oranges-vs-grapefruit
